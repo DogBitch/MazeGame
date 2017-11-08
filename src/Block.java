@@ -5,6 +5,8 @@ import javafx.scene.shape.Rectangle;
 /**
  * Created by chrx on 10/25/17.
  */
+
+// test
 public class Block extends Pane {
     private Rectangle block = new Rectangle(40, 40);
     private boolean open;
